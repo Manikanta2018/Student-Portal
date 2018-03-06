@@ -1,0 +1,2 @@
+# Student-Portal
+The Student Portal is accessed by the students and professors in the University. The portal is designed by using the Windows Forms Application and SQL Server 2014 with Management Studio. Where the data is entered from the Win forms and saved in the Data base where the users can view the data and save it. Now, this application is used by the Under Graduate students in the college. 
